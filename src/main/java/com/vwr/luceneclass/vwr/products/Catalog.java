@@ -1,11 +1,11 @@
 /**
  * 
  */
-package main.java.com.vwr.luceneclass.vwr.products;
+package com.vwr.luceneclass.vwr.products;
 
 import java.util.List;
 
-import main.java.com.vwr.luceneclass.utils.ProductUtils;
+import com.vwr.luceneclass.utils.ProductUtils;
 
 /**
  * @author carl.corder

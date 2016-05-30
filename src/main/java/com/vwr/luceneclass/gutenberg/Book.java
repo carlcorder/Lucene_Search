@@ -1,7 +1,7 @@
 /**
  * 
  */
-package main.java.com.vwr.luceneclass.gutenberg;
+package com.vwr.luceneclass.gutenberg;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -24,7 +24,7 @@ public class Book {
 	 * @param id
 	 * @param title
 	 * @param author
-	 * @param present
+	 * //@param present
 	 * 
 	 * constructor used when the book content needs to be downloaded
 	 * the present flag tells us if we already have the book content

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package main.java.com.vwr.luceneclass.vwr;
+package com.vwr.luceneclass.vwr;
 
 /**
  * @author carl.corder

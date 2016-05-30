@@ -1,7 +1,7 @@
 /**
  * 
  */
-package main.java.com.vwr.luceneclass.gutenberg;
+package com.vwr.luceneclass.gutenberg;
 
 import java.io.File;
 import java.io.IOException;

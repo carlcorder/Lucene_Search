@@ -1,12 +1,12 @@
 /**
  * 
  */
-package main.java.com.vwr.luceneclass.vwr.demo;
+package com.vwr.luceneclass.vwr.demo;
 
-import main.java.com.vwr.luceneclass.vwr.Config;
-import main.java.com.vwr.luceneclass.vwr.index_writer.CatalogIndexer;
-import main.java.com.vwr.luceneclass.vwr.products.Catalog;
-import main.java.com.vwr.luceneclass.vwr.search.CatalogSearchEngine;
+import com.vwr.luceneclass.vwr.Config;
+import com.vwr.luceneclass.vwr.index_writer.CatalogIndexer;
+import com.vwr.luceneclass.vwr.products.Catalog;
+import com.vwr.luceneclass.vwr.search.CatalogSearchEngine;
 
 /**
  * @author Carl.Corder

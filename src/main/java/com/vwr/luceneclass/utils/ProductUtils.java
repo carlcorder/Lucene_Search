@@ -1,7 +1,7 @@
 /**
  * 
  */
-package main.java.com.vwr.luceneclass.utils;
+package com.vwr.luceneclass.utils;
 
 import java.io.File;
 import java.io.FileReader;
@@ -12,8 +12,8 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 
-import main.java.com.vwr.luceneclass.vwr.Config;
-import main.java.com.vwr.luceneclass.vwr.products.Product;
+import com.vwr.luceneclass.vwr.Config;
+import com.vwr.luceneclass.vwr.products.Product;
 
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;

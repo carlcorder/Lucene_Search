@@ -1,13 +1,13 @@
 /**
  * 
  */
-package main.java.com.vwr.luceneclass.vwr.search;
+package com.vwr.luceneclass.vwr.search;
 
 import java.io.File;
 import java.io.IOException;
 import java.util.Iterator;
 
-import main.java.com.vwr.luceneclass.vwr.products.Product;
+import com.vwr.luceneclass.vwr.products.Product;
 
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;

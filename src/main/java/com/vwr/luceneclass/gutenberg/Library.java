@@ -1,11 +1,11 @@
 /**
  * 
  */
-package main.java.com.vwr.luceneclass.gutenberg;
+package com.vwr.luceneclass.gutenberg;
 
 import java.util.List;
 
-import main.java.com.vwr.luceneclass.utils.BookUtils;
+import com.vwr.luceneclass.utils.BookUtils;
 
 /**
  * @author Carl.Corder

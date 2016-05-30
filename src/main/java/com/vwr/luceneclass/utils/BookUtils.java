@@ -1,7 +1,7 @@
 /**
  * 
  */
-package main.java.com.vwr.luceneclass.utils;
+package com.vwr.luceneclass.utils;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import main.java.com.vwr.luceneclass.gutenberg.Book;
+import com.vwr.luceneclass.gutenberg.Book;
 
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;

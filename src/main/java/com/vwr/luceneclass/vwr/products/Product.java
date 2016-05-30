@@ -1,7 +1,7 @@
 /**
  * 
  */
-package main.java.com.vwr.luceneclass.vwr.products;
+package com.vwr.luceneclass.vwr.products;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

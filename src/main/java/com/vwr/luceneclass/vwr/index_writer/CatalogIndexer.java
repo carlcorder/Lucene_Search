@@ -1,14 +1,14 @@
 /**
  * 
  */
-package main.java.com.vwr.luceneclass.vwr.index_writer;
+package com.vwr.luceneclass.vwr.index_writer;
 
 import java.io.File;
 import java.io.IOException;
 
-import main.java.com.vwr.luceneclass.utils.ProductUtils;
-import main.java.com.vwr.luceneclass.vwr.products.Catalog;
-import main.java.com.vwr.luceneclass.vwr.products.Product;
+import com.vwr.luceneclass.utils.ProductUtils;
+import com.vwr.luceneclass.vwr.products.Catalog;
+import com.vwr.luceneclass.vwr.products.Product;
 
 import org.apache.log4j.Logger;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
