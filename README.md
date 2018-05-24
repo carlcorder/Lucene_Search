@@ -10,7 +10,7 @@ How to build an index:
 6. Commit changes to the IndexWriter
 7. Close the IndexWriter
 
-Once the index has been created, you can browse it with [Luke](http://www.getopt.org/luke/)
+Once the [index](https://github.com/carlcorder/lucene-search/tree/master/src/main/java/com/vwr/luceneclass/vwr/index) has been created, you can browse it with [Luke](http://www.getopt.org/luke/)
 
 * Luke 4.10 works with Lucene 4.10
 * Run via the command line `java -XX:MaxPermSize=512m -jar luke-with-deps.jar`
